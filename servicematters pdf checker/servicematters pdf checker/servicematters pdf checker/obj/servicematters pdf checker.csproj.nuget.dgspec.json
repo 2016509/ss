@@ -1,0 +1,113 @@
+{
+  "format": 1,
+  "restore": {
+    "M:\\VS repositories\\servicematters pdf checker\\servicematters pdf checker\\servicematters pdf checker\\servicematters pdf checker.csproj": {}
+  },
+  "projects": {
+    "M:\\VS repositories\\servicematters pdf checker\\servicematters pdf checker\\servicematters pdf checker\\servicematters pdf checker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "M:\\VS repositories\\servicematters pdf checker\\servicematters pdf checker\\servicematters pdf checker\\servicematters pdf checker.csproj",
+        "projectName": "servicematters pdf checker",
+        "projectPath": "M:\\VS repositories\\servicematters pdf checker\\servicematters pdf checker\\servicematters pdf checker\\servicematters pdf checker.csproj",
+        "packagesPath": "C:\\Users\\quick\\.nuget\\packages\\",
+        "outputPath": "M:\\VS repositories\\servicematters pdf checker\\servicematters pdf checker\\servicematters pdf checker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\quick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Google.Apis": {
+              "target": "Package",
+              "version": "[1.57.0, )"
+            },
+            "Google.Apis.Auth": {
+              "target": "Package",
+              "version": "[1.57.0, )"
+            },
+            "Google.Apis.Sheets.v4": {
+              "target": "Package",
+              "version": "[1.57.0.2720, )"
+            },
+            "Leaf.xNet": {
+              "target": "Package",
+              "version": "[5.2.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Ini": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[18.0.0, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

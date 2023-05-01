@@ -1,0 +1,36 @@
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\servicematters pdf checker.exe
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\settings.ini
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\servicematters pdf checker.deps.json
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\servicematters pdf checker.runtimeconfig.json
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\servicematters pdf checker.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\servicematters pdf checker.pdb
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\BouncyCastle.Crypto.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Google.Apis.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Google.Apis.Auth.PlatformServices.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Google.Apis.Auth.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Google.Apis.Core.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Google.Apis.Sheets.v4.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\itextsharp.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Leaf.xNet.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Microsoft.Extensions.Configuration.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Microsoft.Extensions.Configuration.Ini.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Microsoft.Extensions.Primitives.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Newtonsoft.Json.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\bin\Release\net6.0\Telegram.Bot.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\obj\Release\net6.0\servicematters pdf checker.csproj.AssemblyReference.cache
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\obj\Release\net6.0\servicematters pdf checker.GeneratedMSBuildEditorConfig.editorconfig
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\obj\Release\net6.0\servicematters pdf checker.AssemblyInfoInputs.cache
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\obj\Release\net6.0\servicematters pdf checker.AssemblyInfo.cs
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\obj\Release\net6.0\servicematters pdf checker.csproj.CoreCompileInputs.cache
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\obj\Release\net6.0\servicematters pdf checker.csproj.CopyComplete
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\obj\Release\net6.0\servicematters pdf checker.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\obj\Release\net6.0\refint\servicematters pdf checker.dll
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\obj\Release\net6.0\servicematters pdf checker.pdb
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\obj\Release\net6.0\servicematters pdf checker.genruntimeconfig.cache
+S:\VS repositories\servicematters pdf checker\servicematters pdf checker\servicematters pdf checker\obj\Release\net6.0\ref\servicematters pdf checker.dll
